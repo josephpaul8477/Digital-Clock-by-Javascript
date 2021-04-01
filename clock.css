@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+#time {
+    color: white;
+    font-family: "Segment7Standard";
+    font-size: xx-large;
+    border: 5px solid rgb(240, 89, 89);
+    border-radius: 20px;
+    width: 500px;
+    text-align: center;
+    color:lightpink;
+}
+
+
